@@ -1,0 +1,33 @@
+header{
+  background-color: #aaa6bf;
+  opacity: 0.7;
+  margin-bottom:8px;
+  font-family: 'Karla', sans-serif;
+}
+h1{
+  color: black;
+  text-shadow: 2px 2px #0b0b0b;
+  font-weight:600;
+}
+li{
+  margin:5px;
+  padding-top:5px;
+}
+
+.col-md-3{
+  padding: 10px;
+}
+
+h3, span{
+  color:#000;
+  font-family: 'Karla', sans-serif;
+}
+a:hover {
+  padding:10px;
+  border-radius:0.3px;
+}
+
+footer{
+  background-color: #aaa6bf;
+  opacity: 0.7;
+}
